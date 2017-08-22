@@ -27,7 +27,7 @@ public class FirstApp {
             System.out.println("Testing no "+val);
         }
         
-        for()
+       
         //this testing applications
         
         // TODO code application logic here
