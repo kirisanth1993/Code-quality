@@ -20,6 +20,9 @@ public class FirstApp {
         String name = "application";
         System.out.println(name);
         
+        int var;
+        System.out.println(var);
+        
         for(int val =0; val<=10; val++){
             System.out.println("Testing no "+val);
         }
